@@ -26,11 +26,11 @@ Follow these steps to run the Image Resizer app using Django:
 4. Activate the virtual environment:
    - On macOS/Linux:
      ```
-     source env/bin/activate
+     source .venv/bin/activate
      ```
    - On Windows:
      ```
-     .\env\Scripts\activate
+     .\.venv\Scripts\activate
      ```
 
 5. Install the project dependencies:
